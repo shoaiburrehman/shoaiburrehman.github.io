@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf976a2b.chunk.css",
+    "main.js": "/static/js/main.e564f403.chunk.js",
+    "main.js.map": "/static/js/main.e564f403.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c3e8af0c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c3e8af0c.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.b751c772.chunk.js": "/static/js/2.b751c772.chunk.js",
+    "static/js/2.b751c772.chunk.js.map": "/static/js/2.b751c772.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2369f2055afc258e771303f5a742ab5b.js": "/precache-manifest.2369f2055afc258e771303f5a742ab5b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.cf976a2b.chunk.css.map": "/static/css/main.cf976a2b.chunk.css.map",
+    "static/js/2.b751c772.chunk.js.LICENSE.txt": "/static/js/2.b751c772.chunk.js.LICENSE.txt",
+    "static/media/Dog-vs-Cat.jpg": "/static/media/Dog-vs-Cat.124647da.jpg",
+    "static/media/Salary2.png": "/static/media/Salary2.7bd4d2aa.png",
+    "static/media/airbnbPrice.jpg": "/static/media/airbnbPrice.6f6406af.jpg",
+    "static/media/amazonSentiment.jpg": "/static/media/amazonSentiment.760d32f8.jpg",
+    "static/media/creditRisk.jpg": "/static/media/creditRisk.b626825a.jpg",
+    "static/media/futureSales.png": "/static/media/futureSales.a4598633.png",
+    "static/media/graduation.e13e7e0f.svg": "/static/media/graduation.e13e7e0f.svg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/movieRecommendation.jpg": "/static/media/movieRecommendation.bc7ee83e.jpg",
+    "static/media/neural.jpg": "/static/media/neural.412ef654.jpg",
+    "static/media/portfolio.png": "/static/media/portfolio.bcab92db.png",
+    "static/media/profile.png": "/static/media/profile.ba080107.png",
+    "static/media/titanic.jpg": "/static/media/titanic.61e23185.jpg",
+    "static/media/twitterSentiment2.jpg": "/static/media/twitterSentiment2.a70dfae9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e8af0c.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.b751c772.chunk.js",
+    "static/css/main.cf976a2b.chunk.css",
+    "static/js/main.e564f403.chunk.js"
+  ]
+}
