@@ -35,7 +35,7 @@ const Home = (props) => {
                               <a href= "mailto:shoaiburrehman249@gmail.com" target="_blank" rel="noopener"><MailIcon className="zoom"/></a>
                               <a href= "https://www.linkedin.com/in/shoaiburrehmankhan/" target="_blank" rel="noopener"><LinkedInIcon className="zoom"/></a>
                               <a href= "https://github.com/shoaiburrehman" target="_blank" rel="noopener"><GitHubIcon className="zoom mb-1"/></a>
-                              <a className="anchor" href= "/files/shoaibCV.pdf" target="_blank">CV</a>
+                              <a className="anchor" href= "https://drive.google.com/file/d/1pi1yDzcCxYDm_2a-VSF0Go0J1OCMNMoN/view?usp=sharing" target="_blank" rel="noopener">CV</a>
                             </div>
                             <div className="mt-3 mb-4">
                                 <NavLink exact to="/portfolio" className="btn-get-started">See my Portfolio</NavLink>
