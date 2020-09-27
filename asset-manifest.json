@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf976a2b.chunk.css",
-    "main.js": "/static/js/main.eb44c3ab.chunk.js",
-    "main.js.map": "/static/js/main.eb44c3ab.chunk.js.map",
+    "main.css": "/static/css/main.a514f1c6.chunk.css",
+    "main.js": "/static/js/main.d9deacdb.chunk.js",
+    "main.js.map": "/static/js/main.d9deacdb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3e8af0c.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3e8af0c.js.map",
     "static/css/2.ea6b7726.chunk.css": "/static/css/2.ea6b7726.chunk.css",
-    "static/js/2.b751c772.chunk.js": "/static/js/2.b751c772.chunk.js",
-    "static/js/2.b751c772.chunk.js.map": "/static/js/2.b751c772.chunk.js.map",
+    "static/js/2.aa16b4fb.chunk.js": "/static/js/2.aa16b4fb.chunk.js",
+    "static/js/2.aa16b4fb.chunk.js.map": "/static/js/2.aa16b4fb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7876913e868cc9386e5a19a6796c8582.js": "/precache-manifest.7876913e868cc9386e5a19a6796c8582.js",
+    "precache-manifest.0cee90dbb7c7a0a9830918f23d050e37.js": "/precache-manifest.0cee90dbb7c7a0a9830918f23d050e37.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ea6b7726.chunk.css.map": "/static/css/2.ea6b7726.chunk.css.map",
-    "static/css/main.cf976a2b.chunk.css.map": "/static/css/main.cf976a2b.chunk.css.map",
-    "static/js/2.b751c772.chunk.js.LICENSE.txt": "/static/js/2.b751c772.chunk.js.LICENSE.txt",
+    "static/css/main.a514f1c6.chunk.css.map": "/static/css/main.a514f1c6.chunk.css.map",
+    "static/js/2.aa16b4fb.chunk.js.LICENSE.txt": "/static/js/2.aa16b4fb.chunk.js.LICENSE.txt",
     "static/media/Dog-vs-Cat.jpg": "/static/media/Dog-vs-Cat.124647da.jpg",
     "static/media/Salary2.png": "/static/media/Salary2.7bd4d2aa.png",
     "static/media/airbnbPrice.jpg": "/static/media/airbnbPrice.6f6406af.jpg",
@@ -26,14 +26,15 @@
     "static/media/neural.jpg": "/static/media/neural.412ef654.jpg",
     "static/media/portfolio.png": "/static/media/portfolio.bcab92db.png",
     "static/media/profile.png": "/static/media/profile.ba080107.png",
+    "static/media/shoaibCV.pdf": "/static/media/shoaibCV.8830d915.pdf",
     "static/media/titanic.jpg": "/static/media/titanic.61e23185.jpg",
     "static/media/twitterSentiment2.jpg": "/static/media/twitterSentiment2.a70dfae9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3e8af0c.js",
     "static/css/2.ea6b7726.chunk.css",
-    "static/js/2.b751c772.chunk.js",
-    "static/css/main.cf976a2b.chunk.css",
-    "static/js/main.eb44c3ab.chunk.js"
+    "static/js/2.aa16b4fb.chunk.js",
+    "static/css/main.a514f1c6.chunk.css",
+    "static/js/main.d9deacdb.chunk.js"
   ]
 }
