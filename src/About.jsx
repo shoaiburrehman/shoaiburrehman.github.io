@@ -9,6 +9,7 @@ import MailIcon from '@material-ui/icons/Mail';
 import LocationOnIcon from '@material-ui/icons/LocationOn';
 import PhoneIcon from '@material-ui/icons/Phone';
 import { ReactComponent as GradIcon } from './assets/graduation.svg';
+import file from "./files/shoaibCV.pdf";
 
 const About = (props) => {
   return (
@@ -147,7 +148,7 @@ const About = (props) => {
                               <a href= "mailto:shoaiburrehman249@gmail.com" target="_blank" rel="noopener"><MailIcon className="zoom"/></a>
                               <a href= "https://www.linkedin.com/in/shoaiburrehmankhan/" target="_blank" rel="noopener"><LinkedInIcon className="zoom"/></a>
                               <a href= "https://github.com/shoaiburrehman" target="_blank" rel="noopener"><GitHubIcon className="zoom mb-1"/></a>
-                              <a className="anchor" href= "https://drive.google.com/file/d/1pi1yDzcCxYDm_2a-VSF0Go0J1OCMNMoN/view?usp=sharing" target="_blank" rel="noopener">CV</a>
+                              <a className="anchor" href= {file} target="_blank" rel="noopener">CV</a>
                             </div>
                             <div className="mt-3 div-a ml-3">
                               <p className="color-para"><PhoneIcon className="mr-1" />+92 307 2522920</p>
