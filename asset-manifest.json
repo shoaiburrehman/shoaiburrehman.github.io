@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a514f1c6.chunk.css",
-    "main.js": "/static/js/main.d9deacdb.chunk.js",
-    "main.js.map": "/static/js/main.d9deacdb.chunk.js.map",
+    "main.css": "/static/css/main.cf976a2b.chunk.css",
+    "main.js": "/static/js/main.36ccd3ef.chunk.js",
+    "main.js.map": "/static/js/main.36ccd3ef.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3e8af0c.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3e8af0c.js.map",
     "static/css/2.ea6b7726.chunk.css": "/static/css/2.ea6b7726.chunk.css",
-    "static/js/2.aa16b4fb.chunk.js": "/static/js/2.aa16b4fb.chunk.js",
-    "static/js/2.aa16b4fb.chunk.js.map": "/static/js/2.aa16b4fb.chunk.js.map",
+    "static/js/2.09fed68f.chunk.js": "/static/js/2.09fed68f.chunk.js",
+    "static/js/2.09fed68f.chunk.js.map": "/static/js/2.09fed68f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0cee90dbb7c7a0a9830918f23d050e37.js": "/precache-manifest.0cee90dbb7c7a0a9830918f23d050e37.js",
+    "precache-manifest.d71333968350466526d50fa556c9a0c1.js": "/precache-manifest.d71333968350466526d50fa556c9a0c1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ea6b7726.chunk.css.map": "/static/css/2.ea6b7726.chunk.css.map",
-    "static/css/main.a514f1c6.chunk.css.map": "/static/css/main.a514f1c6.chunk.css.map",
-    "static/js/2.aa16b4fb.chunk.js.LICENSE.txt": "/static/js/2.aa16b4fb.chunk.js.LICENSE.txt",
+    "static/css/main.cf976a2b.chunk.css.map": "/static/css/main.cf976a2b.chunk.css.map",
+    "static/js/2.09fed68f.chunk.js.LICENSE.txt": "/static/js/2.09fed68f.chunk.js.LICENSE.txt",
     "static/media/Dog-vs-Cat.jpg": "/static/media/Dog-vs-Cat.124647da.jpg",
     "static/media/Salary2.png": "/static/media/Salary2.7bd4d2aa.png",
     "static/media/airbnbPrice.jpg": "/static/media/airbnbPrice.6f6406af.jpg",
     "static/media/amazonSentiment.jpg": "/static/media/amazonSentiment.760d32f8.jpg",
+    "static/media/credit-card.jpg": "/static/media/credit-card.6ac2e7d4.jpg",
     "static/media/creditRisk.jpg": "/static/media/creditRisk.b626825a.jpg",
     "static/media/futureSales.png": "/static/media/futureSales.a4598633.png",
     "static/media/graduation.e13e7e0f.svg": "/static/media/graduation.e13e7e0f.svg",
@@ -33,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.c3e8af0c.js",
     "static/css/2.ea6b7726.chunk.css",
-    "static/js/2.aa16b4fb.chunk.js",
-    "static/css/main.a514f1c6.chunk.css",
-    "static/js/main.d9deacdb.chunk.js"
+    "static/js/2.09fed68f.chunk.js",
+    "static/css/main.cf976a2b.chunk.css",
+    "static/js/main.36ccd3ef.chunk.js"
   ]
 }

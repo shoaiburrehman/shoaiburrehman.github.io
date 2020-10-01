@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d21a6ffbe296dfb9042ac3407b7ee13",
+    "revision": "ea52180682149aefead6d62c4ea36f71",
     "url": "/index.html"
   },
   {
-    "revision": "9df39aab9a275cdf408b",
+    "revision": "b35406b7e08b96f757ac",
     "url": "/static/css/2.ea6b7726.chunk.css"
   },
   {
-    "revision": "a4028fffd40390369880",
-    "url": "/static/css/main.a514f1c6.chunk.css"
+    "revision": "a9f1aa44b7e5150c07a2",
+    "url": "/static/css/main.cf976a2b.chunk.css"
   },
   {
-    "revision": "9df39aab9a275cdf408b",
-    "url": "/static/js/2.aa16b4fb.chunk.js"
+    "revision": "b35406b7e08b96f757ac",
+    "url": "/static/js/2.09fed68f.chunk.js"
   },
   {
     "revision": "4e5653c2aea1f8f01a4afdf4252ee778",
-    "url": "/static/js/2.aa16b4fb.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.09fed68f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a4028fffd40390369880",
-    "url": "/static/js/main.d9deacdb.chunk.js"
+    "revision": "a9f1aa44b7e5150c07a2",
+    "url": "/static/js/main.36ccd3ef.chunk.js"
   },
   {
     "revision": "9b41c7e13f690904baac",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "760d32f8adbeaa737f478e658969909c",
     "url": "/static/media/amazonSentiment.760d32f8.jpg"
+  },
+  {
+    "revision": "6ac2e7d41b93754d6bd798ed00f99167",
+    "url": "/static/media/credit-card.6ac2e7d4.jpg"
   },
   {
     "revision": "b626825a1402f5bc11b3a4a3d54828c8",
