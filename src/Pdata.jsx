@@ -7,15 +7,10 @@ import Amazon from './images/amazonSentiment.jpg'
 import CatDog from './images/Dog-vs-Cat.jpg'
 import creditRisk from './images/creditRisk.jpg'
 import airbnb from './images/airbnbPrice.jpg'
+import creditCard from './images/credit-card.jpg'
 // can add images for diff cards
 
 const Pdata = [
-    {
-        imgsrc:Titanic,
-        title:"Titanic: Machine Learning From Disaster",
-        href:"https://github.com/shoaiburrehman/Titanic_MachineLearning_From_Disaster",
-        description:"This is the Titanic Machine Learning from Disaster Project where we predict the survivals. (with Tableau Dashboard)"
-    },
     {
         imgsrc:Salary,
         title:"Salary Prediction of Data Science Job",
@@ -23,10 +18,22 @@ const Pdata = [
         description:"This is the project for Data Science Salary Prediction of Glassdoor's Data Science Job, also deployed it using Flask."
     },
     {
+        imgsrc:creditCard,
+        title:"Credit Card Fraud Detection",
+        href:"https://github.com/shoaiburrehman/Credit-Card-Fraud-Detection",
+        description:"This is the Credit Card Fraud Detection to identify fraudulent credit card transactions. (with SMOTE & Undersampling)."
+    },
+    {
         imgsrc:futureSales,
         title:"Predict Future Sales",
         href:"https://github.com/shoaiburrehman/Predict-Future-Sales",
         description:"This is the Predict Future Sales Forecasting Project which predicts from different ML Algorithms for the next month."
+    },
+    {
+        imgsrc:Titanic,
+        title:"Titanic: Machine Learning From Disaster",
+        href:"https://github.com/shoaiburrehman/Titanic_MachineLearning_From_Disaster",
+        description:"This is the Titanic Machine Learning from Disaster Project where we predict the survivals. (with Tableau Dashboard)"
     },
     {
         imgsrc:recommendation,
