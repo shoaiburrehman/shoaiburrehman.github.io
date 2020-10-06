@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea52180682149aefead6d62c4ea36f71",
+    "revision": "de21ddcdafe759bc4af37cdaaf8aced6",
     "url": "/index.html"
   },
   {
-    "revision": "b35406b7e08b96f757ac",
+    "revision": "f951b3deeeea940f474c",
     "url": "/static/css/2.ea6b7726.chunk.css"
   },
   {
-    "revision": "a9f1aa44b7e5150c07a2",
-    "url": "/static/css/main.cf976a2b.chunk.css"
+    "revision": "a6155aecad355bc5d52a",
+    "url": "/static/css/main.a514f1c6.chunk.css"
   },
   {
-    "revision": "b35406b7e08b96f757ac",
-    "url": "/static/js/2.09fed68f.chunk.js"
+    "revision": "f951b3deeeea940f474c",
+    "url": "/static/js/2.d5a08a3e.chunk.js"
   },
   {
     "revision": "4e5653c2aea1f8f01a4afdf4252ee778",
-    "url": "/static/js/2.09fed68f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d5a08a3e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9f1aa44b7e5150c07a2",
-    "url": "/static/js/main.36ccd3ef.chunk.js"
+    "revision": "a6155aecad355bc5d52a",
+    "url": "/static/js/main.71109748.chunk.js"
   },
   {
     "revision": "9b41c7e13f690904baac",
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Dog-vs-Cat.124647da.jpg"
   },
   {
-    "revision": "7bd4d2aa7723bb364b0ecb5ee0606ec1",
-    "url": "/static/media/Salary2.7bd4d2aa.png"
-  },
-  {
     "revision": "6f6406af0dd84b4988d14549e5e6bfdc",
     "url": "/static/media/airbnbPrice.6f6406af.jpg"
   },
   {
-    "revision": "760d32f8adbeaa737f478e658969909c",
-    "url": "/static/media/amazonSentiment.760d32f8.jpg"
+    "revision": "6795eb91a7e07a6c0df02ab374610e10",
+    "url": "/static/media/amazonRev.6795eb91.png"
+  },
+  {
+    "revision": "fab06f9c6af6e45d33272d5ceabc4674",
+    "url": "/static/media/carPred.fab06f9c.jpg"
   },
   {
     "revision": "6ac2e7d41b93754d6bd798ed00f99167",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/creditRisk.b626825a.jpg"
   },
   {
-    "revision": "a4598633c712b4618065fd74b3593d3e",
-    "url": "/static/media/futureSales.a4598633.png"
+    "revision": "742dc80d5749370d2299e9aab6d845f3",
+    "url": "/static/media/futureSal.742dc80d.png"
   },
   {
     "revision": "e13e7e0fd9249ed5a2dba4fc1fd977e9",
@@ -80,8 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/profile.ba080107.png"
   },
   {
-    "revision": "8830d9157d0e370b4a8f43e82228aeb9",
-    "url": "/static/media/shoaibCV.8830d915.pdf"
+    "revision": "ec51e843d15d2d9eddac6396ea0cf1f2",
+    "url": "/static/media/salPred.ec51e843.jpg"
+  },
+  {
+    "revision": "8b2a9ff7fff504100ce15d22faeccd4b",
+    "url": "/static/media/shoaibCV.8b2a9ff7.pdf"
   },
   {
     "revision": "61e23185f53a3da15c6c7e0b4bf92dce",
