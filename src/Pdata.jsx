@@ -1,13 +1,14 @@
 import Titanic from './images/titanic.jpg'
-import Salary from './images/Salary2.png'
-import futureSales from './images/futureSales.png'
+import Salary from './images/salPred.jpg'
+import futureSales from './images/futureSal.png'
 import recommendation from './images/movieRecommendation.jpg'
 import twitter from './images/twitterSentiment2.jpg'
-import Amazon from './images/amazonSentiment.jpg'
+import Amazon from './images/amazonRev.png'
 import CatDog from './images/Dog-vs-Cat.jpg'
 import creditRisk from './images/creditRisk.jpg'
 import airbnb from './images/airbnbPrice.jpg'
 import creditCard from './images/credit-card.jpg'
+import carPredict from './images/carPred.jpg'
 // can add images for diff cards
 
 const Pdata = [
@@ -18,22 +19,28 @@ const Pdata = [
         description:"This is the project for Data Science Salary Prediction of Glassdoor's Data Science Job, also deployed it using Flask."
     },
     {
+        imgsrc:carPredict,
+        title:"Pakistan Used Cars Price Prediction",
+        href:"https://github.com/shoaiburrehman/Pakistan-Car-Price-Prediction",
+        description:"This is the Pakistan Car Price Prediction Project to Identify Pakistan used Car prices, also deployed it using Flask."
+    },
+    {
         imgsrc:creditCard,
         title:"Credit Card Fraud Detection",
         href:"https://github.com/shoaiburrehman/Credit-Card-Fraud-Detection",
-        description:"This is the Credit Card Fraud Detection to identify fraudulent credit card transactions. (with SMOTE & Undersampling)."
-    },
-    {
-        imgsrc:futureSales,
-        title:"Predict Future Sales",
-        href:"https://github.com/shoaiburrehman/Predict-Future-Sales",
-        description:"This is the Predict Future Sales Forecasting Project which predicts from different ML Algorithms for the next month."
+        description:"This project will identify fraudulent credit card transactions. (with SMOTE & Undersampling Method)."
     },
     {
         imgsrc:Titanic,
         title:"Titanic: Machine Learning From Disaster",
         href:"https://github.com/shoaiburrehman/Titanic_MachineLearning_From_Disaster",
         description:"This is the Titanic Machine Learning from Disaster Project where we predict the survivals. (with Tableau Dashboard)"
+    },
+    {
+        imgsrc:futureSales,
+        title:"Predict Future Sales",
+        href:"https://github.com/shoaiburrehman/Predict-Future-Sales",
+        description:"This is the Predict Future Sales Forecasting Project which predicts from different ML Algorithms for the next month."
     },
     {
         imgsrc:recommendation,
