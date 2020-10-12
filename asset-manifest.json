@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a514f1c6.chunk.css",
-    "main.js": "/static/js/main.71109748.chunk.js",
-    "main.js.map": "/static/js/main.71109748.chunk.js.map",
+    "main.css": "/static/css/main.72782192.chunk.css",
+    "main.js": "/static/js/main.e5b0f46f.chunk.js",
+    "main.js.map": "/static/js/main.e5b0f46f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3e8af0c.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3e8af0c.js.map",
     "static/css/2.ea6b7726.chunk.css": "/static/css/2.ea6b7726.chunk.css",
     "static/js/2.d5a08a3e.chunk.js": "/static/js/2.d5a08a3e.chunk.js",
     "static/js/2.d5a08a3e.chunk.js.map": "/static/js/2.d5a08a3e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5c67cdda4b8b0e8f767f194584229c2a.js": "/precache-manifest.5c67cdda4b8b0e8f767f194584229c2a.js",
+    "precache-manifest.db925b5e7bcb7154072a1eeb525022b6.js": "/precache-manifest.db925b5e7bcb7154072a1eeb525022b6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ea6b7726.chunk.css.map": "/static/css/2.ea6b7726.chunk.css.map",
-    "static/css/main.a514f1c6.chunk.css.map": "/static/css/main.a514f1c6.chunk.css.map",
+    "static/css/main.72782192.chunk.css.map": "/static/css/main.72782192.chunk.css.map",
     "static/js/2.d5a08a3e.chunk.js.LICENSE.txt": "/static/js/2.d5a08a3e.chunk.js.LICENSE.txt",
     "static/media/Dog-vs-Cat.jpg": "/static/media/Dog-vs-Cat.124647da.jpg",
     "static/media/airbnbPrice.jpg": "/static/media/airbnbPrice.6f6406af.jpg",
@@ -28,7 +28,7 @@
     "static/media/portfolio.png": "/static/media/portfolio.bcab92db.png",
     "static/media/profile.png": "/static/media/profile.ba080107.png",
     "static/media/salPred.jpg": "/static/media/salPred.ec51e843.jpg",
-    "static/media/shoaibCV.pdf": "/static/media/shoaibCV.8b2a9ff7.pdf",
+    "static/media/shoaibCV.pdf": "/static/media/shoaibCV.7a29e790.pdf",
     "static/media/titanic.jpg": "/static/media/titanic.61e23185.jpg",
     "static/media/twitterSentiment2.jpg": "/static/media/twitterSentiment2.a70dfae9.jpg"
   },
@@ -36,7 +36,7 @@
     "static/js/runtime-main.c3e8af0c.js",
     "static/css/2.ea6b7726.chunk.css",
     "static/js/2.d5a08a3e.chunk.js",
-    "static/css/main.a514f1c6.chunk.css",
-    "static/js/main.71109748.chunk.js"
+    "static/css/main.72782192.chunk.css",
+    "static/js/main.e5b0f46f.chunk.js"
   ]
 }
