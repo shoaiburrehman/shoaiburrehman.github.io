@@ -60,7 +60,7 @@ const About = (props) => {
                                     <GradIcon className="mt-2"/>
                                     <div className="description d-inline ml-2">
                                       <p className="degree d-inline"><strong>Bachelors of Science in Software Engineering</strong></p>
-                                      <p className="institution">Usman Institute of Technology | Sept 2015 – 2019</p>
+                                      <p className="institution">Usman Institute of Technology | Sept 2015 – July 2019</p>
                                       <p className="duration text-muted">Karachi, Pakistan</p>
                                       {/* <p className="duration text-muted">KARACHI, PAKISTAN</p> */}
                                     </div>

@@ -13,7 +13,7 @@ const Card = (props) => {
                     <h5 className="card-title font-weight-bold">{props.title}</h5>
                     <p className="card-text">{props.description}</p>
                     {/* <NavLink exact to={props.href} className="btn btn-primary">Click for Details</NavLink> */}
-                    <a href={props.href} className="btn btn-primary" target="_blank" rel="noopener">Click for Details</a>
+                    <a href={props.href} className="btn btn-primary outline" target="_blank" rel="noopener">Click for Details</a>
                 </div>
             </div>
         </div>
