@@ -45,10 +45,10 @@ const About = (props) => {
                               <div className="col-md-4 pt-2">
                                 <h2><strong>Interests</strong></h2>
                                 <ul>
-                                  <li>Data Science</li>
-                                  <li>Deep Learning</li>
-                                  <li>Machine Learning</li>
                                   <li>Artificial Intelligence</li>
+                                  <li>Data Science</li>
+                                  <li>Machine Learning</li>
+                                  <li>Deep Learning</li>
                                   <li>Web Development</li>
                                   <li>Mobile App Development</li>
                                 </ul>
@@ -84,13 +84,25 @@ const About = (props) => {
                                     <h2><strong>Experience</strong></h2>
                                     <div className="card1">
                                       <div className="card-body">
-                                        <h5 className="card-title">Junior Software Developer</h5>
-                                        <h6 className = "text-muted">MITCO Software Company | Oct 2019 – Till Present</h6>
+                                        <h5 className="card-title">Junior Software Engineer</h5>
+                                        <h6 className = "text-muted">Vital System Pvt. Ltd. | Nov 2020 – Till Present</h6>
                                         <p className="duration1 text-muted">Karachi, Pakistan</p>
                                         <p className="card-text">
-                                        <li>Working in JS Frameworks (React-Redux, React-Native, Node.js) and MySQL.</li> 
-                                        <li>Here my job is to develop and maintain web and mobile application.</li>
-                                        <li>Working in Linux platform as per requirements.</li></p>
+                                        <li>Working in JS Frameworks (React-Native, Redux-Saga).</li> 
+                                        <li>My job here is to develop and maintain their own product-based mobile application.</li>
+                                        <li>Working on other side project as per requirements with day to day reporting.</li></p>
+                                        {/* <a href="#" className="btn btn-primary">Go somewhere</a> */}
+                                      </div>
+                                    </div>
+                                    <div className="card1 mt-3">
+                                      <div className="card-body">
+                                        <h5 className="card-title">Junior Software Developer</h5>
+                                        <h6 className = "text-muted">MITCO Software Company | Oct 2019 – Nov 2020</h6>
+                                        <p className="duration1 text-muted">Karachi, Pakistan</p>
+                                        <p className="card-text">
+                                        <li>Worked in JS Frameworks (React-Redux, React-Native, Node.js) and MySQL.</li> 
+                                        <li>Here my job was to develop and maintain web and mobile application.</li>
+                                        <li>Worked in Linux platform as per requirements.</li></p>
                                         {/* <a href="#" className="btn btn-primary">Go somewhere</a> */}
                                       </div>
                                     </div>

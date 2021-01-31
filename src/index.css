@@ -95,6 +95,7 @@ body {
 }
 .ul-edu{
   list-style: none;
+  margin-left: -30px;
 }
 .size {
   width:50%;
