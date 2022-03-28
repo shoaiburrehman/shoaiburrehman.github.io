@@ -95,7 +95,7 @@ const About = (props) => {
                                         {/* <a href="#" className="btn btn-primary">Go somewhere</a> */}
                                       </div>
                                     </div>
-                                    <div className="card1">
+                                    <div className="card1 mt-3">
                                       <div className="card-body">
                                         <h5 className="card-title">Junior Software Engineer</h5>
                                         <h6 className = "text-muted">Vital System Pvt. Ltd. | Nov 2020 – July 2021</h6>
