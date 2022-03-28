@@ -7,6 +7,7 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import MailIcon from '@material-ui/icons/Mail';
 import LocationOnIcon from '@material-ui/icons/LocationOn';
+import { FaStackOverflow } from 'react-icons/fa';
 import file from "./files/shoaibCV.pdf";
 
 const Home = (props) => {
@@ -36,6 +37,7 @@ const Home = (props) => {
                               <a href= "mailto:shoaiburrehman249@outlook.com" target="_blank" rel="noopener"><MailIcon className="zoom"/></a>
                               <a href= "https://www.linkedin.com/in/shoaiburrehmankhan/" target="_blank" rel="noopener"><LinkedInIcon className="zoom"/></a>
                               <a href= "https://github.com/shoaiburrehman" target="_blank" rel="noopener"><GitHubIcon className="zoom mb-1"/></a>
+                              <a href= "https://stackoverflow.com/users/16950813/shoaib-khan" target="_blank" rel="noopener"><FaStackOverflow className="zoom mb-1" size="1.5em"/></a>
                               <a className="anchor" href= {file} target="_blank" rel="noopener">CV</a>
                             </div>
                             <div className="mt-3 mb-4">

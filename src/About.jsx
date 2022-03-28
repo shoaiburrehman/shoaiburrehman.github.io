@@ -8,6 +8,7 @@ import GitHubIcon from '@material-ui/icons/GitHub';
 import MailIcon from '@material-ui/icons/Mail';
 import LocationOnIcon from '@material-ui/icons/LocationOn';
 import PhoneIcon from '@material-ui/icons/Phone';
+import { FaStackOverflow } from 'react-icons/fa';
 import { ReactComponent as GradIcon } from './assets/graduation.svg';
 import file from "./files/shoaibCV.pdf";
 
@@ -37,8 +38,8 @@ const About = (props) => {
                     <div className="row">
                         {/* <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column"> */}
                         <div className="col-md-6 order-2 order-lg-1">
-                          <h1><strong className="brand-name">Software Developer</strong></h1>
-                            <h5 className="my-3 text-justify"><strong></strong>Graduated in July 2019, trained in Web and Mobile App Development. Motivated Software developer with over some months of Web and Mobile App Development experience and passion for Data Science & Machine Learning and its Libraries.
+                          <h1><strong className="brand-name">Software Engineer</strong></h1>
+                            <h5 className="my-3 text-justify"><strong></strong>Graduated in 2019, trained in Mobile App Development. Motivated Software developer with two years of Mobile App Development experience and passion for Data Science and its Python Libraries.
                             <br /><br />I am proficient in Data Analysis, Visualization, Machine Learning and Deep Learning. I am passionate about research involving Deep Learning and Artificial Intelligence.</h5>
                             <div className="col-12 mx-auto">
                             <div className="row">
@@ -172,6 +173,7 @@ const About = (props) => {
                               <a href= "mailto:shoaiburrehman249@outlook.com" target="_blank" rel="noopener"><MailIcon className="zoom"/></a>
                               <a href= "https://www.linkedin.com/in/shoaiburrehmankhan/" target="_blank" rel="noopener"><LinkedInIcon className="zoom"/></a>
                               <a href= "https://github.com/shoaiburrehman" target="_blank" rel="noopener"><GitHubIcon className="zoom mb-1"/></a>
+                              <a href= "https://stackoverflow.com/users/16950813/shoaib-khan" target="_blank" rel="noopener"><FaStackOverflow className="zoom mb-1" size="1.5em"/></a>
                               <a className="anchor" href= {file} target="_blank" rel="noopener">CV</a>
                             </div>
                             <div className="mt-3 div-a ml-3">
