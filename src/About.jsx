@@ -1,5 +1,5 @@
 import React from 'react';
-import profimg from './images/profile.png';
+import profimg from './images/profile.jpg';
 import './App.css';
 import { NavLink } from 'react-router-dom';
 import web from './images/portfolio.png';
@@ -45,12 +45,12 @@ const About = (props) => {
                               <div className="col-md-4 pt-2">
                                 <h2><strong>Interests</strong></h2>
                                 <ul>
+                                  <li>Mobile App Development (React Native)</li>
                                   <li>Artificial Intelligence</li>
                                   <li>Data Science</li>
                                   <li>Machine Learning</li>
                                   <li>Deep Learning</li>
                                   <li>Web Development</li>
-                                  <li>Mobile App Development</li>
                                 </ul>
                               </div>
                               <div className="col-md-5 ml-8 pt-2 mb-4">
@@ -84,8 +84,20 @@ const About = (props) => {
                                     <h2><strong>Experience</strong></h2>
                                     <div className="card1">
                                       <div className="card-body">
+                                        <h5 className="card-title">Mobile Application Developer</h5>
+                                        <h6 className = "text-muted">E-Tools Software Pty. Ltd | July 2021 – Till Present</h6>
+                                        <p className="duration1 text-muted">Karachi, Pakistan</p>
+                                        <p className="card-text">
+                                          <li>It is an Australian based Software Company. I work here in React-Native.</li> 
+                                          <li>My job is to develop and maintain their own product-based aged care Mobile Applications.</li>
+                                        </p>
+                                        {/* <a href="#" className="btn btn-primary">Go somewhere</a> */}
+                                      </div>
+                                    </div>
+                                    <div className="card1">
+                                      <div className="card-body">
                                         <h5 className="card-title">Junior Software Engineer</h5>
-                                        <h6 className = "text-muted">Vital System Pvt. Ltd. | Nov 2020 – Till Present</h6>
+                                        <h6 className = "text-muted">Vital System Pvt. Ltd. | Nov 2020 – July 2021</h6>
                                         <p className="duration1 text-muted">Karachi, Pakistan</p>
                                         <p className="card-text">
                                         <li>Working in JS Frameworks (React-Native, Redux-Saga).</li> 
@@ -140,7 +152,7 @@ const About = (props) => {
                                     <div className="card1 mt-3">
                                       <div className="card-body">
                                         <h5 className="card-title">Artificial Intelligence Certification</h5>
-                                        <h6 className = "text-muted">PIAIC | Jan 2019 – Till Present</h6>
+                                        <h6 className = "text-muted">PIAIC | Jan 2019 – Aug 2021</h6>
                                         <p className="card-text">This is 4 Modules Certification started in 2019, currently in 4th Module.</p>
                                         <p className="text-muted">See Certificate</p>
                                       </div>
@@ -157,7 +169,7 @@ const About = (props) => {
                               </div>
                             </div>
                             <div className="d-inline mt-3 div-a ml-3">
-                              <a href= "mailto:shoaiburrehman249@gmail.com" target="_blank" rel="noopener"><MailIcon className="zoom"/></a>
+                              <a href= "mailto:shoaiburrehman249@outlook.com" target="_blank" rel="noopener"><MailIcon className="zoom"/></a>
                               <a href= "https://www.linkedin.com/in/shoaiburrehmankhan/" target="_blank" rel="noopener"><LinkedInIcon className="zoom"/></a>
                               <a href= "https://github.com/shoaiburrehman" target="_blank" rel="noopener"><GitHubIcon className="zoom mb-1"/></a>
                               <a className="anchor" href= {file} target="_blank" rel="noopener">CV</a>

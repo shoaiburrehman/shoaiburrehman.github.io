@@ -2,7 +2,7 @@ import React from 'react';
 import web from './images/portfolio.png';
 import './App.css';
 import { NavLink } from 'react-router-dom';
-import profimg from './images/profile.png';
+import profimg from './images/profile.jpg';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import MailIcon from '@material-ui/icons/Mail';
@@ -33,7 +33,7 @@ const Home = (props) => {
                             <h1>Hello, I am <strong className="brand-name">Shoaib</strong> and I am Software Engineer</h1>
                             <h2 className="my-3">This is my <strong>Portfolio App</strong></h2>
                             <div className="d-inline div-a">
-                              <a href= "mailto:shoaiburrehman249@gmail.com" target="_blank" rel="noopener"><MailIcon className="zoom"/></a>
+                              <a href= "mailto:shoaiburrehman249@outlook.com" target="_blank" rel="noopener"><MailIcon className="zoom"/></a>
                               <a href= "https://www.linkedin.com/in/shoaiburrehmankhan/" target="_blank" rel="noopener"><LinkedInIcon className="zoom"/></a>
                               <a href= "https://github.com/shoaiburrehman" target="_blank" rel="noopener"><GitHubIcon className="zoom mb-1"/></a>
                               <a className="anchor" href= {file} target="_blank" rel="noopener">CV</a>
